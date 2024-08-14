@@ -13,4 +13,6 @@ En este repositorio puedes encontrar documentos relevantes al desarrollo del rep
   * BIP.puntos_bip       : [GOV](https://datos.gob.cl/)
   * BIP.poblacion_comuna : [INE](https://www.ine.gob.cl/estadisticas/sociales/censos-de-poblacion-y-vivienda/censo-de-poblacion-y-vivienda)
   * BIP.accion_x_tipo : [Tarjeta bip!](https://www.tarjetabip.cl/donde-puedo-cargar.php)
+ 
+Added a new link to test : [Tester](https://codetester.io/runner/)
 
